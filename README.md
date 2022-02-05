@@ -17,6 +17,8 @@ Here is the basic and a very simple project on IoT. Starting from the very first
     - powering Arduino Uno and Motor Driver seperately..
          
          <img src="https://user-images.githubusercontent.com/88929699/152638263-dbc264ff-6160-4b4b-9b71-c95bbe44cc92.png" width="300" height="300">
+         
+         If you want to learn other ways to power Arduino Uno and Motor Driver, [here](https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5) is a very good explanation.
 
 
          
