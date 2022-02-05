@@ -5,11 +5,12 @@ Here is the basic and a very simple project on IoT. Starting from the very first
 
 ### Components used in the project:
 - Battery (11.1V)
-- Motors (2)
-- NodeMCU (ESP8266)
-- Motor Driver (1)
+- DC Motors (2)
+- NodeMCU- ESP8266 (1)
+- L298D Motor Driver (1)
 - Bread Board (1)
 - Jumper Wires (male and female)
+- DMM (Digital Multi Meter)
 - Body of the robot (main body, tires...)
 
 ## Steps to be followed:
