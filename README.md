@@ -20,5 +20,7 @@ Here is the basic and a very simple project on IoT. Starting from the very first
          
          If you want to learn other ways to power Arduino Uno and Motor Driver, [here](https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5) is a very good explanation.
 
+- **Step 2-** Make an app for ON / OFF of built in LED of NodeMCU, if you don't know Android Development make the app from [MIT app inventor](https://appinventor.mit.edu/).
+- **Step 3-** Now connect NodeMCU to your PC and check if it is working fine, by adding the required code in it, and use the application from step 2. If the built in LED swithes ON/ OFF when you give the command through app, then your Wifi Module is working perfectly. 
 
          
