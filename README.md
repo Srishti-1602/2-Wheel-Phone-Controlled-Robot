@@ -22,5 +22,8 @@ Here is the basic and a very simple project on IoT. Starting from the very first
 
 - **Step 2-** Make an app for ON / OFF of built in LED of NodeMCU, if you don't know Android Development make the app from [MIT app inventor](https://appinventor.mit.edu/).
 - **Step 3-** Now connect NodeMCU to your PC and check if it is working fine, by adding the required code in it, and use the application from step 2. If the built in LED swithes ON/ OFF when you give the command through app, then your Wifi Module is working perfectly. 
+- **Step 4-** Once both the devices works perfectly, start with the interfacing of Arduino Uno and NodeMCU through I2C protocol with NodeMCU as the master and Arduino Uno as a slave.
+ - <img src="https://user-images.githubusercontent.com/88929699/152641315-7c92f00d-4b15-43a6-8064-996bff83658d.jpeg" width="300" height="300">
+After uploading the respective codes into the Arduino Uno and NodeMCU, use the same app from step 2 and ON/ OFF the built in LED of Arduino Uno.
 
          
