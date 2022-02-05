@@ -3,7 +3,7 @@ Here is the basic and a very simple project on IoT. Starting from the very first
 
 ![3-wheel-robot](https://user-images.githubusercontent.com/88929699/152636674-ce237737-3329-446e-aca5-0ca33d0bbde7.jpeg)
 
-### Components used in the project
+### Components used in the project:
 - Battery (11.1V)
 - Motors (2)
 - NodeMCU (ESP8266)
@@ -11,3 +11,11 @@ Here is the basic and a very simple project on IoT. Starting from the very first
 - Bread Board (1)
 - Jumper Wires (male and female)
 - Body of the robot (main body, tires...)
+
+## Steps to be followed:
+- **Step 1-** Check whether the motor driver is giving the required output (around 9V).
+    - powering Arduino Uno and Motor Driver seperately..
+         
+<img src= "https://user-images.githubusercontent.com/88929699/152638053-ac96b7ee-cb1c-4911-928e-f397da0324d1.png" width="100" height= "100")
+
+         
